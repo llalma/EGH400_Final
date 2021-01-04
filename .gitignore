@@ -1,0 +1,9 @@
+
+*.txt
+*.fastq
+*.fasta
+*.pb
+*.data-00000-of-00001
+*.index
+lstm_autoencoder/autoencoder_model/.data-00000-of-00001
+*.pb
